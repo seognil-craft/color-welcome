@@ -3,7 +3,7 @@
 A simple colorful welcome pattern (ascii word) for my terminal  
 Just For fun ;)
 
-![intro](https://user-images.githubusercontent.com/5526096/58380709-089a1780-7fe7-11e9-8c4b-d9337b0571e7.gif)
+![intro](https://user-images.githubusercontent.com/5526096/58381684-c4147900-7ff2-11e9-8c52-47ff12a0457b.png)
 
 # How
 
