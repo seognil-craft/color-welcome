@@ -1,0 +1,13 @@
+{
+  "name": "color-welcome",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "license": "MIT",
+  "bin": {
+    "color-welcome": "./cli.js"
+  },
+  "homepage": "https://github.com/seognil-craft/color-welcome",
+  "dependencies": {
+    "lolcatjs": "2.3.2"
+  }
+}
