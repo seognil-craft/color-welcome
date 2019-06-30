@@ -1,5 +1,5 @@
 {
-  "name": "color-welcome",
+  "name": "@seognil-lab/color-welcome",
   "version": "1.0.0",
   "main": "cli.js",
   "license": "MIT",
@@ -7,7 +7,10 @@
     "color-welcome": "./cli.js"
   },
   "homepage": "https://github.com/seognil-craft/color-welcome",
+  "publishConfig": {
+    "registry": "https://prevent.push.to.registry/"
+  },
   "dependencies": {
-    "lolcatjs": "2.3.2"
+    "@darkobits/lolcatjs": "^3.1.3"
   }
 }
