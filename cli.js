@@ -5,9 +5,9 @@ const Printer = require('@darkobits/lolcatjs').default;
 // Math.sin(freq * i + (N * 2 * Math.PI) / 3) * 127 + 128;
 
 const opts = {
-  //   seed: Math.random() * 960 * Math.PI,
-  spread: 8,
-  freq: 0.1,
+  seed: Math.random() * 9600 * Math.PI,
+  spread: 12,
+  freq: 0.15,
 };
 
 const theWelcome = String.raw`
